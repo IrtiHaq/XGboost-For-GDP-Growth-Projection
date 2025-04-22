@@ -4,7 +4,7 @@
 **How Accurately Can a Machine Learning Model be Used to Predict and Forecast GDP Growth Rates For OECD Nations?**
 For this project, our goal is to explore how ML can be applied to Economic Data and be used to forecast and predict the GDP Growth Rate for OECD Nations. GDP Growth Rate Projections play a crucial role in helping Economists and Government planners plan Various Economic Policies: Both Monetary and Fiscal policies.. GDP is  a key economic metric in diagnosing and measuring the Health of an Economy. However, it can be difficult to predict and forecast GDP growth rates. We want to see ML models like XG-Boost play a role in helping predict and Forecast GDP Growth Rates.
 
-## Model Card for GDP Growth Prediction using XGBoost
+## Model Card
 ### Model Overview
 - **Model Name:** GDP Growth Prediction using XGBoost
 - **Version:** 1
