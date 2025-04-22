@@ -1,4 +1,5 @@
 # XGboost-For-GDP-Growth-Projection
+[Notebook Link](https://github.com/IrtiHaq/XGboost-For-GDP-Growth-Projection/blob/main/Project%20Notebook.ipynb)
 
 ## Research Question:
 **How Accurately Can a Machine Learning Model be Used to Predict and Forecast GDP Growth Rates For OECD Nations?**
